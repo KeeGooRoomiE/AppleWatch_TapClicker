@@ -1,5 +1,5 @@
 
-# AppleWatch_TapClicker
+# AppleWatch Tap Clicker
 Swift clicker for Watch OS
 SwiftOS project
 
