@@ -3,4 +3,4 @@
 Swift clicker for Watch OS
 SwiftOS project
 
-![enter image description here](blob/main/preview.png)
+![enter image description here](AppleWatch_TapClicker/blob/main/preview.png)
